@@ -86,7 +86,7 @@
         <td>1.</td>
         <td>SwiftMart (E-Commerce Site)</td>
         <td>HTML, CSS, JS, PHP, MYSQL</td>
-        <td></td>
+        <td>https://swift-mart-ecommerce.netlify.app/</td>
       </tr>
       <tr>
         <td>2.</td>
@@ -98,7 +98,7 @@
         <td>3.</td>
         <td>Pic2Page</td>
         <td>HTML, CSS, JS</td>
-        <td></td>
+        <td>https://pic-2-page.netlify.app/</td>
       </tr>
     </tbody>
   </table>
