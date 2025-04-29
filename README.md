@@ -79,7 +79,7 @@
 <hr />
 
 <div style="display: flex;" >
-    <img align="top"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgo21&layout=compact" alt="Dhruv Goyal" />
+    <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgo21&layout=compact" alt="Dhruv Goyal" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhgo21&theme=gruvbox-duo&card_width=455&card_height=165" alt="GitHub Streak" /></a>
   </div>
 <hr />
