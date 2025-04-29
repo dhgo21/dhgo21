@@ -20,7 +20,7 @@
 <br>
 
 
-<table align="center">
+<table align="left">
 <tbody>
 <tr valign="top">
   
