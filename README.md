@@ -20,55 +20,59 @@
 <br>
 
 
-<table align="left">
+<table align="center">
 <tbody>
 <tr valign="top">
   
-<td width="50%" align="center">
+<td width="200px" align="center">
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 </td>
 
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>𝗖𝗦𝗦𝟯</span><br><br>
-<img height="44px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="64px" src="https://github.com/user-attachments/assets/6b06395b-1680-4ee4-82b1-a7e63556d46c">
 </td>
 
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 </td>
 </tr>
 
 <tr>
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 </td>
 
- <td width="35%" align="center">
+ <td width="200px" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 </td>
 
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 </td>
 
-<td width="35%" align="center">
+<td width="200px" align="center">
 <span>Bootstrap</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 </td>
+
 </tr>
 </tbody>
 </table>
 <br> <br> <br>
+
+
+
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
