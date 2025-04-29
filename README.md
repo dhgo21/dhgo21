@@ -70,16 +70,44 @@
 </tbody>
 </table>
 
+<hr>
+
+<div>
+  <h2 align="center">My Projects</h2>
+  <table align="center">
+    <tbody>
+      <tr>
+        <th>#</th>
+        <th>Project Name</th>
+        <th>Technology/Stack</th>
+        <th>Live URL</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>SwiftMart (E-Commerce Site)</td>
+        <td>HTML, CSS, JS, PHP, MYSQL</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>TreackTendace App</td>
+        <td>ReactJS</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Pic2Page</td>
+        <td>HTML, CSS, JS</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <hr>
-<h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dg21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </p>
-<hr />
-
 <div style="display: flex;" >
     <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgo21&layout=compact" alt="Dhruv Goyal" />
 <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhgo21&theme=gruvbox-duo&card_width=350&card_height=165" alt="GitHub Streak" /></a>
   </div>
 <hr />
+<h1 align="center">Thank You! ❤️</h1>
