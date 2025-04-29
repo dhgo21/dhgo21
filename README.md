@@ -24,45 +24,47 @@
 <tbody>
 <tr valign="top">
   
-<td width="15%" align="center">
+<td width="50%" align="center">
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 </td>
 
-<td width="15%" align="center">
+<td width="35%" align="center">
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 <img height="44px" src="https://cdn.svgporn.com/logos/css-3.svg">
 </td>
 
-<td width="15%" align="center">
+<td width="35%" align="center">
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 
-<td width="15%" align="center">
+<td width="35%" align="center">
 <span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 </td>
-
 </tr>
 
-<tr valign="top">
-  
-<td width="15%" align="center">
+<tr>
+<td width="35%" align="center">
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 </td>
 
- <td width="15%" align="center">
+ <td width="35%" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 </td>
 
-<td width="15%" align="center">
+<td width="35%" align="center">
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 </td>
 
+<td width="35%" align="center">
+<span>Bootstrap</span><br><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+</td>
 </tr>
 </tbody>
 </table>
