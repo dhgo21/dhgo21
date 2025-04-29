@@ -79,11 +79,7 @@
 <hr />
 
 <div style="display: flex;" >
-<img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anujsharma51&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Dhruv Goyal" />
-
-
-
-<img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujsharma51&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Dhruv Goyal" />
-
+    <img align="top"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgo21&layout=compact" alt="Dhruv Goyal" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhgo21&theme=gruvbox-duo" alt="GitHub Streak" /></a>
   </div>
 <hr />
