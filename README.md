@@ -110,4 +110,7 @@
 <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhgo21&theme=gruvbox-duo&card_width=350&card_height=165" alt="GitHub Streak" /></a>
   </div>
 <hr />
-<h1 align="center">Thank You! ❤️</h1>
+<marquee>
+  <h1 align="center">Thank You! ❤️</h1>
+</marquee>
+
