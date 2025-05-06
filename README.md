@@ -85,13 +85,13 @@
       <tr>
         <td>1.</td>
         <td>SwiftMart (E-Commerce Site)</td>
-        <td>HTML, CSS, JS, PHP, MYSQL</td>
+        <td>ReactJS</td>
         <td>https://swift-mart-ecommerce.netlify.app/</td>
       </tr>
       <tr>
         <td>2.</td>
         <td>TreackTendace App</td>
-        <td>ReactJS</td>
+        <td>HTML, CSS, JS, PHP, MYSQL</td>
         <td></td>
       </tr>
       <tr>
