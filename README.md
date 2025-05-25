@@ -100,6 +100,12 @@
         <td>HTML, CSS, JS</td>
         <td>https://pic-2-page.netlify.app/</td>
       </tr>
+      <tr>
+        <td>4.</td>
+        <td>MiniCart App</td>
+        <td>React JS, Redux</td>
+        <td>https://minicartapp.netlify.app/</td>
+      </tr>
     </tbody>
   </table>
 </div>
